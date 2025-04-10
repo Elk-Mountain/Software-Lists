@@ -32,6 +32,8 @@ Mobile:
 
 ## Cross-Platform Compatibility, Ease of Use and Ease of Access Key
 
+If a color square is missing it is either because I haven't used the tool or I haven't added a square yet.
+
 ### Cross-Platform Compatibility 
 
 Web-Based means a program is meant to be run in a web-browser essentially making it cross-compatible with all devices (mobile and desktop). This doesn't guarentee the experience will be pleasent (e.g. video editing on a mobile phone), but means the experience is possible.
@@ -56,16 +58,19 @@ NOTE: Ease of Use is subjective. I'd be happy to hear arguments for or against.
 
 Easy to Use: 🟩<br />
 Somewhat Difficult: 🟨<br />
-Not Recommended: 🟧<br />
+Not Recommended for Beginners: 🟧<br />
 Professional Tool: 🟥<br />
 
 ### Ease of Access
 
 Ease of Access specifices what's require to download and use a program.
 
+Free to use, limitation means a program puts some sort of limit on the user. This might be a time limit, adding a watermark to exported content, or a timed trial.
+
 Free, with no download required: 🟦<br /> 
 Free, download required: 🟩<br />
 Free to use, with account creation: 🟨<br />
+Free to use, limitation: 🟧<br />
 Paid: 🟥<br />
 
 # Resources:
@@ -92,50 +97,50 @@ Panopto - Link: https://www.panopto.com/<br />
 
 ## Interactive Media Maker: 
 
-Thinglink - Link: www.thinglink.com<br />
-iorad - Link: https://www.iorad.com<br />
+Thinglink - CPC:🟦 EoU: EoA:🟧 - Link: https://www.thinglink.com<br />
+iorad - CPC:🟦 EoU: EoA:🟨 - Link: https://www.iorad.com<br />
 
 
 ## Audio Editors:
 
 ### Web-Based Editors: 
 
-AudioMass - Link: https://audiomass.co/<br />
+AudioMass - CPC:🟦 EoU:🟩 EoA:🟦 - Link: https://audiomass.co/<br />
 
 ### Desktop Editors:
     
-Audacity - Link: https://www.audacityteam.org/<br />
-Adobe Audition - Link: https://www.adobe.com/products/audition.html<br />
-Reaper - Link: https://www.reaper.fm/<br />
+Audacity - CPC:🟩 EoU:🟨 EoA:🟩 - Link: https://www.audacityteam.org/<br />
+Adobe Audition - CPC:🟨 EoU: EoA:🟥 - Link: https://www.adobe.com/products/audition.html<br />
+Reaper - CPC:🟩 EoU: EoA:🟧 - Link: https://www.reaper.fm/<br />
 
 
 ## Photo Editors: 
 
 ### Web-Based Editors: 
 
-Photopea - Link: https://www.photopea.com/<br />
-miniPaint - Link: https://viliusle.github.io/miniPaint/<br />
+Photopea - CPC:🟦 EoU:🟩 EoA:🟦 - Link: https://www.photopea.com/<br />
+miniPaint - CPC:🟦 EoU:🟩 EoA:🟦 - Link: https://viliusle.github.io/miniPaint/<br />
 
 ### Desktop Editors: 
 
-Adobe Photoshop - Link: https://www.adobe.com/products/photoshop.html<br />
-Affinity Photo/Photo2 - Link: https://affinity.serif.com/photo/<br />
-GIMP - Link: https://www.gimp.org/<br />
-PaintShop Pro - Link: https://www.paintshoppro.com/en/<br />
+Adobe Photoshop - CPC:🟨 EoU:🟥 EoA:🟥 - Link: https://www.adobe.com/products/photoshop.html<br />
+Affinity Photo/Photo2 - CPC:🟨 EoU:🟥 EoA:🟥 - Link: https://affinity.serif.com/photo/<br />
+GIMP - CPC:🟩 EoU:🟥 EoA:🟩 - Link: https://www.gimp.org/<br />
+PaintShop Pro - CPC:🟥 EoU: EoA:🟥 - Link: https://www.paintshoppro.com/en/<br />
 
 
 ## Video Editors: 
 
 ### Web-Based Editors: 
 
-VidMix - Link: https://vidmix.app/<br />
-Edit.Video - Link: https://edit.video/<br />
-Omniclip - Link: https://omniclip.app/<br />
-Flixier - Link: https://flixier.com/<br />
+VidMix - CPC:🟦 EoU:🟨 EoA:🟦 - Link: https://vidmix.app/<br />
+Edit.Video - CPC:🟦 EoU:🟩 EoA:🟦 Link: https://edit.video/<br />
+Omniclip - CPC:🟦 EoU:🟧 EoA:🟦 - Link: https://omniclip.app/<br />
+Flixier - CPC:🟦 EoU:🟨 EoA:🟧 - Link: https://flixier.com/<br />
 
 ### Desktop Editors: 
 
-Olive - Link: https://www.olivevideoeditor.org/<br />
-Kdenlive - Link: https://kdenlive.org/<br />
-Adobe Premiere Pro - Link: https://www.adobe.com/products/premiere.html<br />
-Shotcut - Link: https://www.shotcut.org/<br />
+Olive - CPC:🟩 EoU:🟧 EoA:🟩 - Link: https://www.olivevideoeditor.org/<br />
+Kdenlive - CPC:🟩 EoU:🟥 EoA:🟩 - Link: https://kdenlive.org/<br />
+Adobe Premiere Pro - CPC:🟨 EoU:🟥 EoA:🟥 - Link: https://www.adobe.com/products/premiere.html<br />
+Shotcut - CPC:🟩 EoU:🟧 EoA:🟩 - Link: https://www.shotcut.org/<br />
