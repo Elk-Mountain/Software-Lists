@@ -32,7 +32,7 @@ Mobile:
 
 ## Cross-Platform Compatibility, Ease of Use and Ease of Access Key
 
-### Cross-Platform Compatibility 🟥🟧🟨🟩🟦🟪🟫
+### Cross-Platform Compatibility 
 
 Web-Based means a program is meant to be run in a web-browser essentially making it cross-compatible with all devices (mobile and desktop). This doesn't guarentee the experience will be pleasent (e.g. video editing on a mobile phone), but means the experience is possible.
 
@@ -44,29 +44,29 @@ Apple Platform-Unified indicates a program is specific to Apple products, but is
 
 Platform-Specific means a program is specific to one platform (e.g. an app that can only be installed on Androids)
 
-Web-Based: 🟦
-Platform-Agnostic: 🟩
-Common Platform-Agnostic:🟨
-Apple Platform-Unified: 🟧
-Platform-Specific:🟥
+Web-Based: 🟦<br />
+Platform-Agnostic: 🟩<br />
+Common Platform-Agnostic:🟨<br />
+Apple Platform-Unified: 🟧<br />
+Platform-Specific:🟥<br />
 
 ### Ease of Use
 
 NOTE: Ease of Use is subjective. I'd be happy to hear arguments for or against.
 
-Easy to Use: 🟩
-Somewhat Difficult: 🟨
-Not Recommended: 🟧
-Professional Tool: 🟥
+Easy to Use: 🟩<br />
+Somewhat Difficult: 🟨<br />
+Not Recommended: 🟧<br />
+Professional Tool: 🟥<br />
 
 ### Ease of Access
 
 Ease of Access specifices what's require to download and use a program.
 
-Free, with no download required: 🟦 
-Free, download required: 🟩
-Free to use, with account creation: 🟨
-Paid: 🟥
+Free, with no download required: 🟦<br /> 
+Free, download required: 🟩<br />
+Free to use, with account creation: 🟨<br />
+Paid: 🟥<br />
 
 # Resources:
 
