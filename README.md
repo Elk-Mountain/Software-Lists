@@ -2,9 +2,75 @@
 
 This is a collection of resources and tools I use and recommend to faculty in a higher-ed environment. I'll log any new tools I come across.
 
-Format: {tool name} - Link: {url}
+## Platform Definitions:
+
+Web-Based:
+
+Tools labelled "Web-Based" are designed to be used in your computers web browser or on your mobile phones browser (may not be ideal). Most advanced online tools require at minimum WebGL support.
+
+Here is a list of common web-browsers.
+
+- Chrome
+- Firefox
+- Safari
+- Microsoft Edge
+- Opera/Opera GX
+- Brave
+
+Desktop Operating Systems: 
+
+Here is a list of common operating systems for desktop computers.
+
+- Windows 10/11
+- macOS
+- Linux
+
+Mobile: 
+
+- Android
+- iOS
+
+## Cross-Platform Compatibility, Ease of Use and Ease of Access Key
+
+### Cross-Platform Compatibility 🟥🟧🟨🟩🟦🟪🟫
+
+Web-Based means a program is meant to be run in a web-browser essentially making it cross-compatible with all devices (mobile and desktop). This doesn't guarentee the experience will be pleasent (e.g. video editing on a mobile phone), but means the experience is possible.
+
+Platform-Agnostic means a program that is compatible with one operating system is compatible with all listed operating systems. This does not mean it is designed to work across both desktop and mobile environments, only that it can run on multiple operating systems within the same category.
+
+Common Platform-Agnostic means a program is support on Windows and Mac.
+
+Apple Platform-Unified indicates a program is specific to Apple products, but is cross-platform between macOS and iOS.
+
+Platform-Specific means a program is specific to one platform (e.g. an app that can only be installed on Androids)
+
+Web-Based: 🟦
+Platform-Agnostic: 🟩
+Common Platform-Agnostic:🟨
+Apple Platform-Unified: 🟧
+Platform-Specific:🟥
+
+### Ease of Use
+
+NOTE: Ease of Use is subjective. I'd be happy to hear arguments for or against.
+
+Easy to Use: 🟩
+Somewhat Difficult: 🟨
+Not Recommended: 🟧
+Professional Tool: 🟥
+
+### Ease of Access
+
+Ease of Access specifices what's require to download and use a program.
+
+Free, with no download required: 🟦 
+Free, download required: 🟩
+Free to use, with account creation: 🟨
+Paid: 🟥
 
 # Resources:
+
+Format: {tool name} - CPC:🟩 EoU:🟩 EoA: 🟩 -  Link: {url}
 
 ## Learning Management Systems:
 
